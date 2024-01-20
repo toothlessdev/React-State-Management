@@ -1,15 +1,15 @@
 # React State Management
 
 ### npm workspace 모노레포 설정
-1. 루트 디렉토리 초기화
+1. 루트 디렉토리 초기화
 ```
 npm init -y
 ```
    
 2. package.json 설정
-```json
+```js
 {
-   ...
+   // ...
    "private": true,
    "workspaces": [
        "react-context-workspace",
