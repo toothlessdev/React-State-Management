@@ -11,8 +11,8 @@
     "license": "ISC",
     "private": true,
     "workspaces": [
-        "react-redux",
-        "react-redux-toolkit",
-        "react-query"
+        "react-context-workspace",
+        "react-query-workspace",
+        "react-redux-workspace"
     ]
 }
