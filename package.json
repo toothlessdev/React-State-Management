@@ -13,6 +13,7 @@
     "workspaces": [
         "react-context-workspace",
         "react-query-workspace",
-        "react-redux-workspace"
+        "react-redux-workspace",
+        "basic-redux-workspace"
     ]
 }
